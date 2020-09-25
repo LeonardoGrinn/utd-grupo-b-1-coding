@@ -1,0 +1,12 @@
+//librerias
+#include <stdlib.h> //libreria estandar para funciones del
+#include <stdio.h> //libreria estandar de entrada y salida
+
+//funcion principal
+int main(){
+	//estructura del programa
+	printf("Hola mundo, soy Armando");
+	printf("Este es mi primer programa");
+	system("pause");
+	return 0;
+}
