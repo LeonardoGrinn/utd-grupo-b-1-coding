@@ -1,0 +1,27 @@
+#include<iostream>
+using namespace std;
+
+int main() {
+
+
+
+    int EnergiaNecesaria = 100;
+
+    (EnergiaActual>= 90)....
+
+    int EnergiaNecesaria = 100, EnergiaActual;
+
+    cout<<"Escribe el número de Energía actual: ";
+    cin>>EnergiaActual;
+
+
+    if (EnergiaActual == EnergiaNecesaria) {
+        cout<<"ENERGIA SUFICIENTE";
+
+    } else {
+        cout<<"ENERGIA INSUFICIENTE";
+    }
+
+    return 0;
+    
+}
